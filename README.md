@@ -4,7 +4,7 @@
 
 <p>
     <em>
-        Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, Sou apaixonado por técnologia, desenvolvimento e GNU/Linux, rececentemente abandonei minha profissão como piloto para dedicar 100% do meu tempo a esta paixão.
+        Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, Sou apaixonado por técnologia, desenvolvimento e GNU/Linux, recentemente abandonei minha profissão como piloto para dedicar 100% do meu tempo a esta paixão.
     </em>
 </p>
 
@@ -13,28 +13,28 @@
 ## Contact :iphone:
 
 <p align="center">
+    <a href="(https://github.com/bruno-salmito)">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/bruno-salmito">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:brunosalmito@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunosalmito@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="(https://github.com/Joshaby)">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Joshaby">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/brunosalmito/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:josehenriquebrito55@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josehenriquebrito55@gmail.com">
+    <a href="(https://www.facebook.com/bruno.salmito.5)">
+        <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=mailto:https://www.facebook.com/bruno.salmito.5">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://github.com/Joshaby)">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/jos%C3%A9-henrique-azevedo-de-brito-a305761b2/">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://www.facebook.com/Joshaby707)">
-        <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=mailto:https://www.facebook.com/Joshaby707">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://api.whatsapp.com/send?phone=5583996936014&text=Olá!%20José)">
+    <a href="(https://api.whatsapp.com/send?phone=5588997868743&text=Olá!%20Bruno)">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://www.instagram.com/josehenrique707/)">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/josehenrique707/">
+    <a href="(https://www.instagram.com/bruno.salmito/)">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/bruno.salmito/">
     </a>
 </p>
 
@@ -50,8 +50,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
@@ -63,7 +61,7 @@
 
 ## Learning :smirk:
 
-Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL on the back end! And Frontend with Angular and Ionic!
+No momento, estou aprendendo HTML,CSS, JS, PHP e Mysql.
 
 
 ## Workspace Spec & OS :computer:
@@ -81,10 +79,10 @@ Right now, I'm learning REST API with Spring Boot with JPA HIbernate and MySQL o
     <br><br>
     <p>
         <p align="center">
-            <img width="360px" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&theme=dark" style="width:50%">
+            <img width="360px" src="https://github-readme-stats.vercel.app/api?username=bruno-salmito&show_icons=true&theme=dark" style="width:50%">
         </p>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshaby&hide=html&layout=compact&theme=dark" style="width:50%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-salmito&hide=html&layout=compact&theme=dark" style="width:50%">
         </p>
     </p>
 </details>
