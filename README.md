@@ -1,5 +1,5 @@
 <!-- <img src="images/1.png" width="260" alt="Logo" align="right" /> Bruno Salmito Filizola :smile: -->
-<img src="https://user-images.githubusercontent.com/53089002/106662635-65522180-6581-11eb-8679-32fc6f60ceeb.png" width="260" alt="Bruno Hi" align="right" />
+<img src="https://user-images.githubusercontent.com/53089002/106663542-9c750280-6582-11eb-955f-3f104a54d206.png" width="260" alt="Bruno Hi" align="right" />
 
 
 =====
@@ -60,6 +60,7 @@
 </p>
 
 <img src="images/2.png" width="180" alt="Logo" align="right" />
+
 
 ## Learning :smirk:
 
