@@ -1,103 +1,33 @@
-<!-- <img src="images/1.png" width="260" alt="Logo" align="right" /> Bruno Salmito Filizola :smile: -->
-<img src="https://user-images.githubusercontent.com/53089002/106663542-9c750280-6582-11eb-955f-3f104a54d206.png" width="260" alt="Bruno Hi" align="right" />
+# :octocat: Bruno Salmito<img src="https://user-images.githubusercontent.com/53089002/106663542-9c750280-6582-11eb-955f-3f104a54d206.png" width="260" alt="Bruno Hi" align="right" />
+
+Sou apaixonado por técnologia, desenvolvimento e GNU/Linux, recentemente abandonei minha profissão como piloto para dedicar 100% do meu tempo a esta paixão.
+
+<!--[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/bruno-salmito)-->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/bruno-salmito)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/brunosalmito)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:brunosalmito@gmail.com)
+<!--[![Github Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white)](https://CodePen.com/bruno-salmito)-->
+
+##
+![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-PHP-181717?logo=php&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
 
-=====
-
-<p>
-    <em>
-        Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, Sou apaixonado por técnologia, desenvolvimento e GNU/Linux, recentemente abandonei minha profissão como piloto para dedicar 100% do meu tempo a esta paixão.
-    </em>
-</p>
-
-<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bruno-salmito&show_icons=true&theme=dark">-->
-
-## Contact :iphone:
-
-<p align="center">
-    <a href="(https://github.com/bruno-salmito)">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:brunosalmito@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:brunosalmito@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunosalmito@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://github.com/bruno-salmito)">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/brunosalmito/">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://www.facebook.com/bruno.salmito.5)">
-        <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=mailto:https://www.facebook.com/bruno.salmito.5">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://api.whatsapp.com/send?phone=5588997868743&text=Olá!%20Bruno)">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(https://www.instagram.com/bruno.salmito/)">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/bruno.salmito/">
-    </a>
-</p>
-
-## Skills :nerd_face:
-<p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</p>
-
-<img src="images/2.png" width="180" alt="Logo" align="right" />
+## GITHUB
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bruno-salmito&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-salmito&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Learning :smirk:
+## 💡 Dica para treinar lógica de programação
 
-No momento, estou aprendendo HTML,CSS, JS, PHP e Mysql.
-
-
-## Workspace Spec & OS :computer:
-<p align="left">
-    <img src="https://img.shields.io/badge/core%20i5%208Th-Samsung_X30-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Fedora_33-0B57A4?style=for-the-badge&logo=fedora&logoColor=white">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Linux_Mint_20.1-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-</p>
+- [Hackerrank](https://www.hackerrank.com/)
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
 
-<details>
-    <summary> More Things :grin: </summary>
-    <br><br>
-    <p>
-        <p align="center">
-            <img width="360px" src="https://github-readme-stats.vercel.app/api?username=bruno-salmito&show_icons=true&theme=dark" style="width:50%">
-        </p>
-        <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-salmito&hide=html&layout=compact&theme=dark" style="width:50%">
-        </p>
-    </p>
-</details>
-
-<details>
-    <summary> Click here if you can ... :stuck_out_tongue_winking_eye: </summary>
-    <br>
-        <p align="center">
-            YOU GOT RICK ROLL'D!!!
-        </p>
-        <p align="center">
-            <img width="700px" src="https://media3.giphy.com/media/kFgzrTt798d2w/giphy.gif?cid=ecf05e474rjajeuhandl9pxl7hx5wfzccsy2vod3omgusbd0&rid=giphy.gif" alt="joshaby" />
-        </p>
-</details>
-    
