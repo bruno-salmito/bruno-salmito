@@ -1,6 +1,6 @@
 # :octocat: Bruno Salmito<img src="https://user-images.githubusercontent.com/53089002/106663542-9c750280-6582-11eb-955f-3f104a54d206.png" width="260" alt="Bruno Hi" align="right" />
 
-Sou apaixonado por técnologia, desenvolvimento e GNU/Linux, recentemente abandonei minha profissão como piloto para dedicar 100% do meu tempo a esta paixão.
+Sou apaixonado por tecnologia, desenvolvimento e GNU/Linux, recentemente abandonei minha profissão como piloto para dedicar 100% do meu tempo a esta paixão.
 
 <!--[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/bruno-salmito)-->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/bruno-salmito)
