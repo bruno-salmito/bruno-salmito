@@ -8,7 +8,8 @@ Apaixonado por aprender e compartilhar, acredito que compartilhar conhecimento Ã
 <!--[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/bruno-salmito)-->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/bruno-salmito)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/bruno-salmito-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:brunosalmito@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCMbMKceN_PKlf6iSYzJzxLg)
+
 <!--[![Github Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white)](https://CodePen.com/bruno-salmito)-->
 
 ##
