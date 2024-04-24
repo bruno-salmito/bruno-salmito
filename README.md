@@ -1,8 +1,30 @@
 # :octocat: Bruno Salmito<img src="https://user-images.githubusercontent.com/53089002/106663542-9c750280-6582-11eb-955f-3f104a54d206.png" width="260" alt="Bruno Hi" align="right" />
 
-Desenvolvedor Full Stack PHP Jr. com conhecimentos em JS, Jquery, MariaDB, HTML5, CSS3 e React Js.
+Profissional experiente em infraestrutura de TI, com foco em Linux, desenvolvimento PHP e Python.
 
-Apaixonado por aprender e compartilhar, acredito que compartilhar conhecimento é o melhor caminho para a uma sociedade melhor.
+Habilidades:
+
+**Infraestrutura:**
+* Experiência em administração de sistemas Linux, incluindo instalação, configuração, gerenciamento de usuários e grupos, segurança e solução de problemas.
+* Conhecimento de ferramentas de automação de infraestrutura, como Ansible e Chef.
+* Experiência em virtualização e containerização, com tecnologias como Docker e Kubernetes.
+* Experiência em nuvem, com certificação AZ-900.
+
+**Desenvolvimento:**
+* Proficiência em PHP e Python.
+* Experiência em frameworks web populares, como Laravel e Django.
+* Habilidades em desenvolvimento de scripts e automação de tarefas.
+
+**Outras:**
+* Certificações LPIC-1 e LPIC-1 Essentials.
+* Forte capacidade de resolução de problemas e pensamento crítico.
+* Habilidades de comunicação e colaboração excepcionais.
+* Automotivado e proativo, com capacidade de trabalhar de forma independente e como parte de uma equipe.
+
+**Interesses:**
+* Estou sempre buscando novas oportunidades para aprender e crescer em minha carreira.
+* Sou apaixonado por tecnologia e adoro me manter atualizado sobre as últimas tendências.
+* Acredito na importância do código aberto e contribuo regularmente para projetos de código aberto.
 
 <!--Desenvolvedor PHP JR, com conhecimentos em JS, MariaDB, HTML5 e CSS3, em busca de uma oportunidade para compartilhar meus conhecimentos, adquirir novos e juntos mudarmos a forma como as pessoas usam aplicações web.-->
 <!--[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/bruno-salmito)-->
