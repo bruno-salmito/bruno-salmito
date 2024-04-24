@@ -46,14 +46,6 @@ Habilidades:
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
 
-## GITHUB
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bruno-salmito&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-salmito&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 💡 Dica para treinar lógica de programação
 
 - [Hackerrank](https://www.hackerrank.com/)
