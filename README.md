@@ -32,15 +32,14 @@ Habilidades:
 * Habilidades em desenvolvimento de scripts e automação de tarefas.
 
 **Outras:**
-* Certificações LPIC-1 e LPIC-1 Essentials.
 * Forte capacidade de resolução de problemas e pensamento crítico.
 * Habilidades de comunicação e colaboração excepcionais.
 * Automotivado e proativo, com capacidade de trabalhar de forma independente e como parte de uma equipe.
 
 **Certificações**
+* Linux: RHCSA
 * Linux: LPIC-1
 * Linux: LE-1
-* Linux: RHCSA
 * Cloud: AZ-900
 * Cloud: AWS Practitioner
 
